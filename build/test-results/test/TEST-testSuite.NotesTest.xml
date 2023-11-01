@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testSuite.NotesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-01T22:10:29" hostname="DESKTOP-6R1SD89" time="44.115">
+<testsuite name="testSuite.NotesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-01T22:23:26" hostname="DESKTOP-6R1SD89" time="45.904">
   <properties/>
-  <testcase name="deleteNoteTest()" classname="testSuite.NotesTest" time="44.115"/>
+  <testcase name="preguntaUno()" classname="testSuite.NotesTest" time="45.904"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

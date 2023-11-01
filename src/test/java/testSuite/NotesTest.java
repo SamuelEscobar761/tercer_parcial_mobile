@@ -44,7 +44,6 @@ public class NotesTest {
 
     @Test
     public void deleteNoteTest(){
-        createNoteTest();
         mainNotes.getNewNoteTitleNotesButton(title).click();
         noteActivity.deleteButton.click();
         noteActivity.confirmDeleteButton.click();
