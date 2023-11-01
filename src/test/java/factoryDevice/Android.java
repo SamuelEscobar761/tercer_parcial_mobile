@@ -14,8 +14,8 @@ public class Android implements IDevice{
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("deviceName","xiaomi:Samu");
         capabilities.setCapability("platformVersion","13");
-        capabilities.setCapability("appPackage","com.miui.notes");
-        capabilities.setCapability("appActivity","com.miui.notes.ui.NotesListActivity");
+        capabilities.setCapability("appPackage","com.vrproductiveapps.whendo");
+        capabilities.setCapability("appActivity","com.vrproductiveapps.whendo.ui.HomeActivity");
         capabilities.setCapability("platformName","Android");
         capabilities.setCapability("automationName","uiautomator2");
 

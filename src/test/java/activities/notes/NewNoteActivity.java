@@ -5,7 +5,7 @@ import control.TextBox;
 import org.openqa.selenium.By;
 
 public class NewNoteActivity {
-    public TextBox titleTextBox = new TextBox(By.id("com.miui.notes:id/note_title"));
-    public TextBox bodyTextBox = new TextBox(By.id("com.miui.notes:id/rich_editor"));
-    public Button homeButton = new Button(By.id("com.miui.notes:id/home"));
+    public TextBox titleTextBox = new TextBox(By.id("com.vrproductiveapps.whendo:id/noteTextTitle"));
+    public TextBox bodyTextBox = new TextBox(By.id("com.vrproductiveapps.whendo:id/noteTextNotes"));
+    public Button saveButton = new Button(By.id("com.vrproductiveapps.whendo:id/saveItem"));
 }
